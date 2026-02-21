@@ -1,4 +1,5 @@
-## Hi there 👋
+Sup! Bruce here,
+Currently learning Full Stack Development. Focusing on the Back-End first with Python & SQLite. Planning to move to MySQL next, then hop on the Front-End.
 
 <!--
 **1nonlybrucee/1nonlybrucee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
