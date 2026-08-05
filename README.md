@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bruce 👋
 
-<!--
-**1nonlybrucee/1nonlybrucee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Bachelor of Science in Computer Science (BSCS) student currently learning modern web development. My current focus is frontend development using React, TypeScript, and Tailwind CSS while building projects to strengthen my fundamentals and gain practical experience.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,git,github,vscode" />
+</p>
+
+## 🚀 Current Focus
+
+- Building frontend projects with React and TypeScript
+- Strengthening JavaScript and TypeScript fundamentals
+- Preparing to learn backend development
